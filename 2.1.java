@@ -1,15 +1,4 @@
-package assignments;
-/*
-Course : CPCS 202
-Name : Shahad Alshehri
-University ID : 
-Section : DBR
-Name of lab instructor : 
-Problem number : 1
-Assignment number : 3
-Beecrowd id : 899919
-*/
-public class ass3Q1 {
+public class MainCLass {
     public static void main(String[] args) {
         int i = 1;
         while (i <10){
