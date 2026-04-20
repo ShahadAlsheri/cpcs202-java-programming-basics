@@ -1,4 +1,4 @@
-# CPCS 202 – Java Programming Assignments
+# Java Programming Assignments
 
 This repository contains university assignments developed for the course CPCS 202 (Programming 1).  
 All projects are implemented in Java and cover fundamental programming concepts.
