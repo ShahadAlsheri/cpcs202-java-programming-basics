@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.util.Scanner;
-public class ass2Q1 {
+public class 1-2 {
     public static void main(String[] args) throws IOException {
         Scanner input = new Scanner(System.in);
         double x = input.nextDouble();
