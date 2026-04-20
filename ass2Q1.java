@@ -1,15 +1,3 @@
-
-package assignments;
-/*
-Course : CPCS 202
-Name : Shahad Alshehri
-University ID : 
-Section : DBR
-Name of lab instructor : 
-Problem number : 1
-Assignment number : 2
-Beecrowd id : 899919
-*/
 import java.io.IOException;
 import java.util.Scanner;
 public class ass2Q1 {
