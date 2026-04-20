@@ -1,5 +1,5 @@
 public class MainClass {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Scanner input  = new Scanner(System.in);
         int a =0, g = 0, d = 0;
         int i = 0;
