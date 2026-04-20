@@ -1,4 +1,4 @@
-public class MainClass {
+public class MainClass { 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String a = input.nextLine();                
