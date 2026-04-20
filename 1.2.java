@@ -1,18 +1,6 @@
-
-package assignments;
-/*
-Course : CPCS 202
-Name :
-University ID :
-Section :
-Name of lab instructor :
-Problem number :
-Assignment number :
-Beecrowd id :
-*/
 import java.util.Scanner;
 import java.io.IOException;
-public class ass2Q2 {
+public class MainClass {
     public static void main(String[] args) throws IOException {
        Scanner input = new Scanner(System.in);
        int a = input.nextInt();
