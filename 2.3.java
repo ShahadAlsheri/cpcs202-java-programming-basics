@@ -1,16 +1,4 @@
-package assignments;
-import java.util.*;
-/*
-Course : CPCS 202
-Name : Shahad Alshehri
-University ID : 
-Section : DBR
-Name of lab instructor : 
-Problem number : 3
-Assignment number : 3
-Beecrowd id : 899919
-*/
-public class ass3Q3 {
+public class MainClass {
     public static void main(String[] args) {
         Scanner input  = new Scanner(System.in);
         int a =0, g = 0, d = 0;
