@@ -4,7 +4,7 @@ public class MainClass {
   public static void main(String[] args) throws IOException {
       Scanner input = new Scanner(System.in);
       int x = input.nextInt();
-      double y = input.nextDouble();      
+      double y = input.nextDouble();
       switch (x){
           case 1 : System.out.printf("Total: R$ %.2f%n" , (y* 4.00)); break;
           case 2 : System.out.printf("Total: R$ " + "%.2f%n" , (y* 4.50)); break;
